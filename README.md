@@ -53,7 +53,7 @@ I'm building expertise in **Cybersecurity** and **Embedded Systems** to create s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=000&labelColor=1a1a1a)](https://www.linkedin.com/in/kobie-calingasan-b28307286/)
 [![GitHub](https://img.shields.io/badge/GitHub-00FF00?style=for-the-badge&logo=github&logoColor=000&labelColor=1a1a1a)](https://github.com/Iamkobie)
 [![Email](https://img.shields.io/badge/Email-00FF00?style=for-the-badge&logo=gmail&logoColor=000&labelColor=1a1a1a)](mailto:officialkobiecalingasan@gmail.com)
-[![Portfolio](https://kobie.space/)
+
 
 **Always open for:**
 - 🔐 Cybersecurity discussions
