@@ -32,19 +32,7 @@
 
 I'm building expertise in **Cybersecurity** and **Embedded Systems** to create secure, intelligent IoT solutions. My mission is to understand both **offense and defense** to build hardware that's not just powerful, but **SECURE at its core**.
 
-## 📈 **< STATS >**
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamkobie&show_icons=true&theme=nightowl&bg_color=0d1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamkobie&layout=compact&theme=nightowl&bg_color=0d1117&title_color=00FF00&text_color=00FF00&border_color=00FF00)
-
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Iamkobie&theme=nightowl&background=0d1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)
-
-</div>
-
----
 
 ## 🔗 **< CONNECT >**
 
