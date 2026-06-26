@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=34&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=KOBIE+CALINGASAN;CYBERSECURITY+ENGINEER+IN+PROGRESS;IoT+%7C+SOFTWARE+ENGINEER;BUILDING+SECURE+SYSTEMS;ALWAYS+LEARNING" />
