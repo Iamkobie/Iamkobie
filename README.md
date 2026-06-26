@@ -1,35 +1,43 @@
+<div align="center">
+
 # Kobie Calingasan
+### Cybersecurity · Software Engineering · IoT
 
-Cybersecurity • Software Engineering • IoT
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nodejs,docker,linux" />
 
-4th-year IT student focused on cybersecurity, secure software development, and embedded systems. I like building things that connect hardware to the cloud — and making sure they're built securely from the start.
+</div>
+
+4th-year IT student building toward a career in cybersecurity engineering — secure software, defensive security, and embedded systems that bridge hardware and the cloud.
 
 [LinkedIn](https://www.linkedin.com/in/kobie-calingasan-b28307286) · [Email](mailto:officialkobiecalingasan@gmail.com)
 
 ---
 
-## Currently
-
-Working on defensive security fundamentals (SOC/blue team basics, network security) alongside embedded systems and IoT projects. Studying for Security+ and eJPT.
-
 ## Projects
 
-**Sirene** — AI-powered Filipino language learning platform with speech recognition and gamified feedback.
+**Sirene**
+AI-powered Filipino language learning platform — speech recognition, AI feedback, gamified lessons.
 `React` `TypeScript` `FastAPI` `Gemini AI` `PostgreSQL`
 
-**Embedded Educational Device** *(thesis project)* — A magnet-based math learning tool for Grade 1 classrooms, built with ESP32, Hall effect sensors, and LED matrix displays for real-time feedback.
-`ESP32` `C++` `Hardware Design`
+**Embedded Math Learning Device** *(thesis)*
+Magnet-based addition trainer for Grade 1 classrooms. ESP32 + Hall effect sensors detect magnet placement; MAX7219 LED matrices and audio give real-time feedback.
+`ESP32` `C++` `Hall Effect Sensors` `Embedded Systems`
 
-**Security Tooling** — Authentication systems, REST API hardening, and small automation scripts for common security tasks.
-
-## Stack
-
-**Languages:** Python, Java, C/C++, JavaScript, TypeScript
-**Web:** React, Next.js, Node.js, FastAPI, Tailwind
-**Data:** PostgreSQL, MySQL, MongoDB
-**Infra:** Docker, Linux, Git
-**Embedded:** ESP32, Arduino, Raspberry Pi, MQTT
+**Security Tooling**
+Authentication systems, REST API hardening, and automation scripts for recurring security tasks.
 
 ---
 
-<sub>github-readme-stats can go here if you want the graphs — see note below</sub>
+## Currently learning
+
+Defensive security & SOC fundamentals · Network security · Cloud security · Digital forensics
+Studying for **Security+** and **eJPT**
+
+---
+
+## GitHub stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
