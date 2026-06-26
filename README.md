@@ -3,41 +3,42 @@
 # Kobie Calingasan
 ### Cybersecurity · Software Engineering · IoT
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nodejs,docker,linux" />
+4th-year IT student building toward a career in cybersecurity engineering. I work across the stack — from embedded hardware to backend systems to the cloud — with a focus on building things securely from the start.
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nodejs,docker,linux,git" />
+
+<p align="center">
+<a href="https://www.linkedin.com/in/kobie-calingasan-b28307286">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:officialkobiecalingasan@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 </div>
 
-4th-year IT student building toward a career in cybersecurity engineering — secure software, defensive security, and embedded systems that bridge hardware and the cloud.
+---
 
-[LinkedIn](https://www.linkedin.com/in/kobie-calingasan-b28307286) · [Email](mailto:officialkobiecalingasan@gmail.com)
+## What I do
+
+- **Secure software development** — building applications with security baked in, not bolted on
+- **Embedded systems & IoT** — ESP32, Arduino, sensors, and the firmware that ties them together
+- **Defensive security** — SOC fundamentals, network security, and blue team basics
+- **Full-stack development** — React/Next.js on the frontend, Node.js/FastAPI on the backend
+
+## Tech stack
+
+**Languages:** Python · Java · C/C++ · JavaScript · TypeScript
+**Web:** React · Next.js · Node.js · FastAPI · Tailwind
+**Databases:** PostgreSQL · MySQL · MongoDB
+**Tools:** Docker · Linux · Git
+**Embedded:** ESP32 · Arduino · Raspberry Pi · MQTT
 
 ---
 
-## Projects
+<div align="center">
 
-**Sirene**
-AI-powered Filipino language learning platform — speech recognition, AI feedback, gamified lessons.
-`React` `TypeScript` `FastAPI` `Gemini AI` `PostgreSQL`
+Currently studying for **Security+** and **eJPT** · Always learning, always building.
 
-**Embedded Math Learning Device** *(thesis)*
-Magnet-based addition trainer for Grade 1 classrooms. ESP32 + Hall effect sensors detect magnet placement; MAX7219 LED matrices and audio give real-time feedback.
-`ESP32` `C++` `Hall Effect Sensors` `Embedded Systems`
-
-**Security Tooling**
-Authentication systems, REST API hardening, and automation scripts for recurring security tasks.
-
----
-
-## Currently learning
-
-Defensive security & SOC fundamentals · Network security · Cloud security · Digital forensics
-Studying for **Security+** and **eJPT**
-
----
-
-## GitHub stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+</div>
