@@ -1,91 +1,163 @@
+````markdown
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=100&lines=KOBIE+CALINGASAN;CYBERSECURITY+%7C+IoT+%7C+SOFTWARE+ENGINEERING;BUILDING+SECURE+SYSTEMS;ALWAYS+LEARNING" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=34&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=KOBIE+CALINGASAN;CYBERSECURITY+ENGINEER+IN+PROGRESS;IoT+%7C+SOFTWARE+ENGINEER;BUILDING+SECURE+SYSTEMS;ALWAYS+LEARNING" />
 
-# 👋 Hi, I'm Kobie Calingasan
+# Kobie Calingasan
 
-### Cybersecurity • IoT • Embedded Systems • Software Development
+### Cybersecurity • Software Engineering • IoT • Embedded Systems
 
-*"Building secure technology from hardware to software."*
+<p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=3B82F6"/>
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square"/>
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=flat-square"/>
+</p>
+
+*"Engineering secure solutions from hardware to cloud."*
 
 </div>
 
 ---
 
-## ⚡ System Status
+# About Me
 
-```yaml
-Status:           Online
-Role:             IT Student (4th Year)
-Location:         Philippines
-Focus:            Cybersecurity & IoT
-Currently:        Building projects and expanding security expertise
-Mission:          Develop secure, scalable, and impactful technology
-```
+I'm a **4th-year Information Technology student** specializing in **Cybersecurity, Software Engineering, and IoT Systems**.
+
+I enjoy building secure applications that bridge **hardware, cloud infrastructure, artificial intelligence, and modern web technologies**.
+
+My long-term goal is to become a **Cybersecurity Engineer** focused on designing resilient systems, securing digital infrastructure, and developing technologies that make a real-world impact.
 
 ---
 
-# 🚀 About Me
+# Current Focus
 
-I'm a **4th-year Information Technology student** passionate about designing secure systems that combine **cybersecurity**, **software engineering**, and **embedded systems**.
-
-My goal is to become a cybersecurity professional capable of protecting modern infrastructure while developing intelligent IoT solutions that are **secure by design**.
-
-I enjoy learning through hands-on projects, hackathons, and open-source collaboration.
-
----
-
-# 🔐 Current Focus
-
-* 🛡️ Cybersecurity & SOC Fundamentals
-* 🌐 Network Security
-* ⚙️ Embedded Systems & IoT
-* 🤖 AI-powered Applications
-* ☁️ Cloud & Backend Development
-* 🚀 Open Source Contributions
+- Defensive Security
+- SOC & Blue Team Fundamentals
+- Secure Software Development
+- Network Security
+- Cloud Infrastructure
+- Embedded Systems & IoT
+- Artificial Intelligence Integration
+- Open Source Development
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,c" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts" />
 </p>
 
-### Web & Backend
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,mongodb,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
 </p>
 
-### Cybersecurity & Infrastructure
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
-### Embedded Systems
+### Databases
 
-* ESP32
-* Arduino
-* IoT Integration
-* Sensors & Microcontrollers
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,bash,git,github,vercel" />
+</p>
+
+### Embedded
+
+- ESP32
+- Arduino
+- Raspberry Pi
+- MQTT
+- Sensors & Actuators
 
 ---
 
-# 📈 Current Goals
+# GitHub Analytics
 
-* Earn industry cybersecurity certifications
-* Build real-world security tools
-* Contribute to open-source projects
-* Expand expertise in cloud and infrastructure security
-* Develop secure IoT ecosystems
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
 
 ---
 
-# 📫 Connect With Me
+# Featured Projects
+
+### Sirene
+
+AI-powered Filipino language learning platform combining speech recognition, AI feedback, and gamified learning.
+
+**Tech Stack**
+
+React • TypeScript • FastAPI • Gemini AI • PostgreSQL
+
+---
+
+### Security Projects
+
+- Authentication Systems
+- Secure REST APIs
+- Network Utilities
+- Security Automation Scripts
+
+---
+
+### IoT Projects
+
+- Smart Home Automation
+- ESP32 Systems
+- Embedded Networking
+- Sensor Monitoring
+
+---
+
+# Currently Learning
+
+```text
+Cybersecurity Operations
+Threat Detection
+Cloud Security
+Secure Architecture
+Container Security
+AI Security
+Digital Forensics
+```
+
+---
+
+# 2026 Goals
+
+- Earn Security+
+- Earn eJPT
+- Contribute to Open Source
+- Build Production-Ready Security Tools
+- Publish Technical Articles
+- Participate in International Hackathons
+
+---
+
+# Connect
 
 <p align="center">
 
@@ -94,7 +166,7 @@ I enjoy learning through hands-on projects, hackathons, and open-source collabor
 </a>
 
 <a href="mailto:officialkobiecalingasan@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -103,6 +175,7 @@ I enjoy learning through hands-on projects, hackathons, and open-source collabor
 
 <div align="center">
 
-### 💡 *"Security isn't an afterthought—it's the foundation."*
+### "Secure by design. Built to last."
 
 </div>
+````
